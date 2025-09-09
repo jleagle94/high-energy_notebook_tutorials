@@ -8,7 +8,7 @@ Click any project below to view:
   - [Project 1.5: Same thing but using same database throughout (restricted to 3FGL for now)](heasarc_notebooks/all_sky_galactic_chandra_fermi_v2.md)
   - Project 1.5 pulls both CSC and Fermi catalog data from heasarc Xamin using pyvo's TAP service, which only has up to 3FGL Fermi catalog data.
   - Benefit to using ADQL for both CSC and Fermi datasets is a more straight forward cross-match using Fermi uncertainty sizes directly in the query search.
-- [Project 2: Expands Project 1 to include IRSA and MAST archives](fornax_notebooks/CFG2_cross-matching/CFG2_cross-matching.md)
+- [Project 2: Expands Project 1 to include IRSA and MAST archives](fornax_notebooks/csc-fermi-gaia-2mass_cross-match/csc-fermi-gaia-2mass_cross-match.md)
   - Pulls both CSC and Fermi (4FGL-DR4) catalog data from Xamin and cross-matches with IRSA-2MASS and MAST-GAIA datasets
 
 Other material:
